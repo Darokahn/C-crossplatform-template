@@ -1,3 +1,9 @@
 [submodule "core"]
 	path = core
 	url = ./core/
+[submodule "source/libraries"]
+	path = source/libraries
+	url = git@github.com:Darokahn/libraries.git
+[submodule "web/emsdkdir"]
+	path = web/emsdkdir
+	url = https://github.com/emscripten-core/emsdk.git
