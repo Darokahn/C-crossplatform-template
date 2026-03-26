@@ -1,6 +1,6 @@
 [submodule "core"]
 	path = core
-	url = git@github.com:Darokahn/C-crossplatform-core.git
+	url = git@github.com:Darokahn/C-crossplatform-template
 [submodule "source/libraries"]
 	path = source/libraries
 	url = git@github.com:Darokahn/libraries.git
